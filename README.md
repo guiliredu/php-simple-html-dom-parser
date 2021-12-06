@@ -1,7 +1,9 @@
 php-simple-html-dom-parser
 ==========================
 
-Version 1.5.2
+Forked from sunra/php-simple-html-dom-parser and fixed to use with PHP 7.3+
+
+Version 1.5.3
 
 Adaptation for Composer and PSR-0 of:
 
